@@ -1,3 +1,3 @@
 # LocalizationManager
 A lightweight and simple system to localizate texts in Unity.
-![](images/localizationManagerWindow.PNG)
+<img src="images/localizationManagerWindow.PNG" width="200" height="200">
